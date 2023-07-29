@@ -1,8 +1,6 @@
 <h1 align="center">Hey there👋 I'm Rashmi Girgilani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-girgilani&label=Profile%20views&color=0e75b6&style=flat" alt="r-girgilani" /> </p>
 
-- 🔭 I’m currently mastering **Java and DSA**
-
 - 🌱 I’m ontrack for learning more about **Artificial Intelligence and Data Science.**
 
 - 📫 EMAIL-ME: **girgilanirashmi@gmail.com**
